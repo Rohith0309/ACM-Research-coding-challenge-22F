@@ -11,7 +11,8 @@ Used :
 
 We have to decide on which factors needs to be used to get the Deal type.
 
-![image](https://user-images.githubusercontent.com/46870323/188399406-0ef93bd2-f21b-4765-902f-45d1374aeceb.png)
+![188399406-0ef93bd2-f21b-4765-902f-45d1374aeceb](https://user-images.githubusercontent.com/46870323/188400105-ec031808-6ae2-45dc-8284-2ffcf7c60830.png)
+
 
 
 
